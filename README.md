@@ -1,4 +1,5 @@
 # Activity Letterboxd
+
 Contributors: jnstr
 Stable tag: 1.2
 
@@ -6,7 +7,7 @@ A lightweight widget which uses the Letterboxd RSS feed to display your Letterbo
 
 ## Description
 
-Use this widget to show your letterboxd activity from your letterboxd account.
+Optimized by [Artistry Intelligence Solutions (Pty) Ltd](http://artintelsolutions.co.za/). Use this widget to show your letterboxd activity from your letterboxd account.
 
 ## Installation
 
@@ -19,12 +20,20 @@ This section describes how to install the plugin and get it working.
 
 ## Changelog
 
+= 1.4 =
+
+- various bug fixes
+- [view details here](https://github.com/artistry-intelligence-solutions/Wordpress-Letterboxd-Activity/commit/601eb95ed6d894512910d42b64fdfe36d8fe5543)
+
 = 1.2 =
-* added Reviews
-* merged with my reviews plugin
+
+- added Reviews
+- merged with my reviews plugin
 
 = 1.1 =
-* Bugfix
+
+- Bugfix
 
 = 1.0 =
-* Initial release
+
+- Initial release

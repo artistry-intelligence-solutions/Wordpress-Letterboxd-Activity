@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Activity Letterboxd 
  * Description: Optimized by Artistry Intelligence Solutions (Pty) Ltd. A lightweight widget which uses the Letterboxd RSS feed to display your Letterboxd activity.
- * Version: 1.2
+ * Version: 1.3
  * Author: Johannes Schröter
  * Author URI: https://github.com/artistry-intelligence-solutions/Wordpress-Letterboxd-Activity
  */
