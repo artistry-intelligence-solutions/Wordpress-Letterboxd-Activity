@@ -20,7 +20,7 @@ This section describes how to install the plugin and get it working.
 
 ## Changelog
 
-= 1.4 =
+= 1.3 =
 
 - various bug fixes
 - [view details here](https://github.com/artistry-intelligence-solutions/Wordpress-Letterboxd-Activity/commit/601eb95ed6d894512910d42b64fdfe36d8fe5543)
